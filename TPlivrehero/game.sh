@@ -49,7 +49,7 @@ do
             echo "Bravo, Vous venez de gagné contre le troll grace à votre épée"
             exit
         else
-            echo "Vous avez perdu, contre un troll des caverne à main nue vous n'aviez aucune chance"
+            echo "Vous avez perdu, contre un troll des caverne à main nue vous n'aviez aucune chance essayez de trouver de quoi vous battre avant le combat"
             exit
         fi
     fi
