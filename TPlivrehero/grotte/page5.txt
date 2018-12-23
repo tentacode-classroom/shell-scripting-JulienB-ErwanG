@@ -1,0 +1,6 @@
++épée
+Vous arrivez face à la grille qui protège le coffre, vous essayez de la tordre avec les mains et ça fonctionne, vous ouvrez le coffre et à l'intérieur ce trouve une épée, la porte de la pièce s'ouvre
+que faites vous?
+
+[3] Je vais voir ce qu'il y a dans le long couloir
+[4] Je fuis par la fenêtres

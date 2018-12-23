@@ -1,0 +1,5 @@
+Vous décidez d'allez à droite..
+Vous vous trouvez dans une salle, une immense porte de fer c'est fermer derrière vous. Au fond vous apercevez un coffre protégé par des grilles, et sur le coté une fenetres ouverte
+
+[4] Vous prenez la fuite par la fenêtre
+[5] Vous tentez d'accéder au coffre

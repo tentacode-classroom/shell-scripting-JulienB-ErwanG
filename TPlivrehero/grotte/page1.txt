@@ -1,0 +1,4 @@
+Vous arrivez dans une grotte, à droite une grande pièces avec un coffre, à gauche un long couloir, vous n'en voyez pas la fin.
+
+[2] Vous allez à droite (Salle)
+[3] Vous allez à gauche (Couloir)

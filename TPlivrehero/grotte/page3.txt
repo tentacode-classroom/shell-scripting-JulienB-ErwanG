@@ -1,0 +1,5 @@
+Vous décidez d'allez à gauche..
+Vous avancée dans un couloir légèrement courber, vous ne voyais pas le bout du couloir mais vous voyez une échelle sur votre droite
+
+[6] Prendre l'échelle pour voir ce qu'il y a en haut.
+[2] Continuer dans le long couloir.
